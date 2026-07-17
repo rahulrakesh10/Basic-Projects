@@ -1,0 +1,55 @@
+# FL-01 — Workflow Audit
+
+## 1. Task Inventory
+
+| # | Task | Classification | Rationale |
+|---|------|----------------|-----------|
+| 1 | SEO ranking-signal research paper (FlyRank capstone — correlation/effect-size analysis on ranking signals) | Collaborate with AI | Framing the research question, catching leakage, and interpreting effect sizes needs my judgment, but AI speeds up EDA scaffolding and drafting sections |
+| 2 | Anthropic Academy certifications (targeting ~3/week) | Just me | The learning only counts if I actually work through the material myself — outsourcing defeats the point |
+| 3 | Movra (fitness PWA — workout/macro tracking, React Native/Expo, Open Food Facts integration) | Collaborate with AI | Product decisions and UX philosophy (simplicity, weekly rhythm) are mine; AI is useful for boilerplate screens and API integration code |
+| 4 | MedClause (LangChain pharma contract analysis agent) | Collaborate with AI | Agent architecture and prompt design need my direction, but AI accelerates chain/tool scaffolding |
+| 5 | Pharmaceutical Formulation Agent spec (Kiro, AWS spec-driven IDE) | Collaborate with AI | Kiro's spec-driven flow is built around AI-assisted spec generation, but I own the requirements |
+| 6 | Learning Kiro / new dev tooling | Just me | Actually learning a new IDE/workflow requires hands-on struggle — reading an AI summary isn't the same as building muscle memory |
+| 7 | Freelance client development work | Delegate to AI with review | AI drafts components/fixes fast, but client-facing code always gets my review before it ships |
+| 8 | SWE / frontend internship applications (resumes, cold outreach) | Delegate to AI with review | AI drafts and tailors quickly, but tone and accuracy need a final pass so it still sounds like me |
+| 9 | Debugging local dev environment (Claude Code, Ollama, CLI issues) | Collaborate with AI | Fastest path is usually pairing with AI on error messages, but I still need to understand the fix, not just paste it |
+| 10 | Coursework / class assignments | Just me | Grades are meant to reflect what I actually understand |
+| 11 | Code review on my own PRs before merging | Just me | Catching my own mistakes is a skill I'm still building — an AI pass first would let me skip that rep |
+| 12 | Writing documentation / READMEs for my projects | Delegate to AI with review | Drafting from my code/notes is a good AI use case; I just fix anything inaccurate |
+| 13 | Scheduling / planning my week across school + internship + freelance + projects | Just me | Prioritization calls are personal and context-dependent in a way AI can't judge for me |
+
+*(Rows 1, 2, and 3 are the ones I gave you directly — everything else I filled in based on what's on my plate; flag anything to cut, change, or swap in.)*
+
+---
+
+## 2. Toolkit Setup
+
+- [ ] Claude account created
+- [ ] ChatGPT account created
+- [ ] Anthropic Academy account created
+- [ ] Enrolled in *AI Fluency: Framework & Foundations*
+- [ ] Completed Module 1
+
+*(Check these off yourself — can't verify account creation for you.)*
+
+---
+
+## 3. Claude Project
+
+- [ ] Claude Project created with custom instructions covering: who you are, tone preferences, current goals
+- [ ] Screenshot attached to submission
+
+*(Add the screenshot once you've set this up — happy to help draft the custom instructions text if useful.)*
+
+---
+
+## 4. Three Target Tasks (reused in FL-02–04)
+
+**1. SEO ranking-signal research paper**
+Done well = the correlation/effect-size analysis is reproducible from the notebook end-to-end, every claim is labeled as correlational (not causal), and the writeup states confidence level and sample size for each signal comparison.
+
+**2. Movra development**
+Done well = each shipped feature matches the "simplicity + weekly rhythm" product philosophy — no feature ships if it can't be explained in one sentence to a first-time user, and it passes a self-test on a real phone before merging.
+
+**3. Anthropic Academy certifications**
+Done well = 3 completed per week, each followed by one concrete thing applied from that module to actual project work within the same week (not just a completion badge).
